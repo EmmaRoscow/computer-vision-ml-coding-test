@@ -1,4 +1,4 @@
-This folder contains scripts to run a neural network model to predict gender from images, as well as scripts to train the neural network. It runs on PyTorch.
+This repo contains scripts to run a neural network model to predict gender from images, as well as scripts to train the neural network. It runs on PyTorch. It was submitted as a coding test for a position as machine learning engineer, which was ultimately successful. See the report for more about the task.
 
 The model is saved in models/simple_cnn.
 
